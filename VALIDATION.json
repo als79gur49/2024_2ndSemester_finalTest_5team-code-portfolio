@@ -1,0 +1,233 @@
+{
+  "status": "passed",
+  "source_repository": "als79gur49/2024_2ndSemester_finalTest_5team",
+  "source_commit": "7d8e92b8d6c8cd6814f307cc705c28eaf99bf92d",
+  "source_file_count": 452,
+  "included_source_count": 37,
+  "included_csharp_count": 34,
+  "included_context_count": 3,
+  "excluded_source_count": 415,
+  "generated_file_count": 5,
+  "total_file_count": 42,
+  "exact_allowlist": [
+    {
+      "source_path": "Assets/Scripts/Character/GameManager.cs",
+      "local_path": "Assets/Scripts/Character/GameManager.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Character/GoldSystem.cs",
+      "local_path": "Assets/Scripts/Character/GoldSystem.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Character/MonsterUnitMove.cs",
+      "local_path": "Assets/Scripts/Character/MonsterUnitMove.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Character/PlayAttackSound.cs",
+      "local_path": "Assets/Scripts/Character/PlayAttackSound.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Character/StageManager.cs",
+      "local_path": "Assets/Scripts/Character/StageManager.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Character/UnitAttackTiming.cs",
+      "local_path": "Assets/Scripts/Character/UnitAttackTiming.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Character/UnitMove.cs",
+      "local_path": "Assets/Scripts/Character/UnitMove.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Character/UnitSpawn.cs",
+      "local_path": "Assets/Scripts/Character/UnitSpawn.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Character/UnitStats.cs",
+      "local_path": "Assets/Scripts/Character/UnitStats.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/SaveAndLoad/DataManager.cs",
+      "local_path": "Assets/Scripts/SaveAndLoad/DataManager.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/SaveAndLoad/JsonSaveAndLoader.cs",
+      "local_path": "Assets/Scripts/SaveAndLoad/JsonSaveAndLoader.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/SaveAndLoad/PlayerData.cs",
+      "local_path": "Assets/Scripts/SaveAndLoad/PlayerData.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Sound/BGMManger.cs",
+      "local_path": "Assets/Scripts/Sound/BGMManger.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/Sound/OnButtonClickSound.cs",
+      "local_path": "Assets/Scripts/Sound/OnButtonClickSound.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/ButtonClickLimit.cs",
+      "local_path": "Assets/Scripts/UI/ButtonClickLimit.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/ButtonSlider.cs",
+      "local_path": "Assets/Scripts/UI/ButtonSlider.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/ChangeImage.cs",
+      "local_path": "Assets/Scripts/UI/ChangeImage.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/DefeatedPanel.cs",
+      "local_path": "Assets/Scripts/UI/DefeatedPanel.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/FollowUI.cs",
+      "local_path": "Assets/Scripts/UI/FollowUI.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/PanelController.cs",
+      "local_path": "Assets/Scripts/UI/PanelController.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/QuitGame.cs",
+      "local_path": "Assets/Scripts/UI/QuitGame.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/SceneLoader.cs",
+      "local_path": "Assets/Scripts/UI/SceneLoader.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/ScriptPanel.cs",
+      "local_path": "Assets/Scripts/UI/ScriptPanel.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/SettingPanel.cs",
+      "local_path": "Assets/Scripts/UI/SettingPanel.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/StagePanel.cs",
+      "local_path": "Assets/Scripts/UI/StagePanel.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/StarInfo.cs",
+      "local_path": "Assets/Scripts/UI/StarInfo.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/StarsController.cs",
+      "local_path": "Assets/Scripts/UI/StarsController.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/StopPanel.cs",
+      "local_path": "Assets/Scripts/UI/StopPanel.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/UIBlocker.cs",
+      "local_path": "Assets/Scripts/UI/UIBlocker.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/UpdateHealthText.cs",
+      "local_path": "Assets/Scripts/UI/UpdateHealthText.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/VictoryPanel.cs",
+      "local_path": "Assets/Scripts/UI/VictoryPanel.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/Stage/PopupMessage.cs",
+      "local_path": "Assets/Scripts/UI/Stage/PopupMessage.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/Stage/UnitUI.cs",
+      "local_path": "Assets/Scripts/UI/Stage/UnitUI.cs"
+    },
+    {
+      "source_path": "Assets/Scripts/UI/Stage/UpdateGold.cs",
+      "local_path": "Assets/Scripts/UI/Stage/UpdateGold.cs"
+    },
+    {
+      "source_path": "Packages/manifest.json",
+      "local_path": "ReviewContext/Packages/manifest.json"
+    },
+    {
+      "source_path": "Packages/packages-lock.json",
+      "local_path": "ReviewContext/Packages/packages-lock.json"
+    },
+    {
+      "source_path": "ProjectSettings/ProjectVersion.txt",
+      "local_path": "ReviewContext/ProjectSettings/ProjectVersion.txt"
+    }
+  ],
+  "all_git_blob_sha_and_sizes_match": true,
+  "all_disk_sha256_match": true,
+  "transport_recovery_counts": {
+    "CP949": 23,
+    "Latin1": 5,
+    "UTF8": 9
+  },
+  "unicode_replacement_character_files": 0,
+  "source_bytes_and_encoding_preserved": true,
+  "versions_verified": {
+    "com.unity.burst": "1.8.7",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.timeline": "1.7.5",
+    "com.unity.visualscripting": "1.8.0",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.feature.2d": "2.0.0",
+    "com.unity.test-framework": "1.1.33",
+    "com.unity.2d.psdimporter": "8.0.2",
+    "com.unity.collab-proxy": "2.5.2",
+    "com.unity.ide.visualstudio": "2.0.18",
+    "com.unity.ide.rider": "3.0.24",
+    "com.unity.2d.animation": "9.0.3"
+  },
+  "unity": "2022.3.7f1 (b16b3b16c7a0)",
+  "excluded_counts": {
+    "기타": 4,
+    "메타데이터": 227,
+    "음원": 11,
+    "이미지·PSB": 37,
+    "폰트·SDF": 3,
+    "기타 JSON": 1,
+    "프리팹": 37,
+    "씬": 8,
+    "제외 C#": 5,
+    "TMP vendor": 32,
+    "애니메이션": 26,
+    "기타 프로젝트 설정": 24
+  },
+  "secret_and_personal_information_scan": {
+    "allowed_personal_information": "Approved team names and repository identifier",
+    "findings": [],
+    "scope": "All 42 files including this report; regex scan and source review, not a guarantee of absence",
+    "categories": [
+      "email",
+      "absolute personal paths",
+      "credential patterns",
+      "internal prompts"
+    ]
+  },
+  "conflict_marker_files": [],
+  "unresolved_soundmanager_reference_files": [
+    "Assets/Scripts/Character/GameManager.cs",
+    "Assets/Scripts/Character/PlayAttackSound.cs",
+    "Assets/Scripts/Sound/BGMManger.cs",
+    "Assets/Scripts/Sound/OnButtonClickSound.cs",
+    "Assets/Scripts/UI/SettingPanel.cs"
+  ],
+  "build_status": "not runnable or buildable; dependencies and assets intentionally omitted",
+  "contribution_evidence": "Original GitHub commits and diffs reviewed; no exclusive-authorship or no-external-borrowing guarantee",
+  "new_oss_license": false,
+  "git_initialized": false,
+  "remote_writes": false,
+  "uploaded": false,
+  "publication_authorized": true,
+  "document_review": "Contribution evidence wording corrected; exclusion explanation consolidated; source bytes unchanged; all 42 files revalidated before upload",
+  "generated_document_sha256": {
+    "README.md": "6ba5c6b23dfee16b1bc2c1ae4ed1b0460642600d9d32dc9b11e4520704f56702",
+    "CONTRIBUTIONS.md": "148b6edeabf0f2cb5dd3598202283f44399c64cfec33f7630494949130a76006",
+    ".gitignore": "3f95c62c4699befda3a1d998060e15d0d82965c8a44151ffb4bddb5dfcc4a971",
+    "MANIFEST.csv": "457934a3ed11c5e645757354ff85f36ee9d5f29bb731dec7a0a931c02ff5d4d3"
+  }
+}
